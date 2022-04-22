@@ -25,7 +25,7 @@ while [[ "${response}" != "exit" ]]; do
             cd "${root_dir}"
             echo ""
         done
-        printf "Press 'enter' to continue install more tools (type 'exit' to abort) "
+        printf "Press 'enter' to continue install more tools (type 'exit' to abort): "
         read response
     fi
 
