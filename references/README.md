@@ -1,4 +1,4 @@
-# Command References
+# References
 
 ## Contents
 
